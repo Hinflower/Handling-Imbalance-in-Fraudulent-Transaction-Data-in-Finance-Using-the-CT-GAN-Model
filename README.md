@@ -1,0 +1,2 @@
+# Handling-Imbalance-in-Fraudulent-Transaction-Data-in-Finance-Using-the-CT-GAN-Model
+This is my research project on imbalanced data in financial fraud for the seminar course. It focuses on tabular credit card data and proposes using a Generative Model to address this issue. The goal is to augment minority class data, thereby improving the performance of classification models, which are typically sensitive to imbalanced data.
